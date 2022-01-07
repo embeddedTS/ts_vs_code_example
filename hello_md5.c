@@ -1,7 +1,7 @@
 // Simple Configuration Example for using VS Code for development with 
-//  Technologic Systems hardware.
+//  embeddedTS hardware.
 //
-// c. 2021 Technologic Systems
+// c. 2021 embeddedTS
 //   Michael D. Peters
 //
 //  This is a slightly more complicated hello world that uses a linked
